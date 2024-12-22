@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ApplicationTrovata" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Suas customizações aqui, se necessário -->
+    </style>
+</resources>

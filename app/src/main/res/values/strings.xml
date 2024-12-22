@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ApplicationTrovata</string>
+    <string name="nenhum_produto_encontrado">Nenhum produto encontrado</string>
+    <string name="excluir_empresa">Excluir empresa</string>
+    <string name="editar_empresa">Editar empresa</string>
+    <string name="raz_o_social">Razão Social</string>
+    <string name="nome_fantasia">Nome Fantasia</string>
+    <string name="endere_o">Endereço</string>
+    <string name="bairro">Bairro</string>
+    <string name="cep">CEP</string>
+    <string name="cidade">Cidade</string>
+    <string name="telefone">Telefone</string>
+    <string name="fax">Fax</string>
+    <string name="cnpj">CNPJ</string>
+    <string name="inscri_o_estadual">Inscrição Estadual</string>
+    <string name="salvar">Salvar</string>
+    <string name="endere_">Endereço</string>
+    <string name="bairro_">Bairro</string>
+    <string name="cep_">CEP</string>
+    <string name="salvar_">Salvar</string>
+    <string name="nome_fantasia_">Nome Fantasia</string>
+    <string name="nome_fantasiaf">Nome Fantasia</string>
+    <string name="endere_of">Endereço</string>
+    <string name="bairrof">Bairro</string>
+    <string name="cepf">CEP</string>
+    <string name="telefonef">Telefone</string>
+    <string name="endereco">Endereco</string>
+</resources>

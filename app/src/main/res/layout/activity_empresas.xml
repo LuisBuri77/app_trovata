@@ -1,0 +1,8 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".activitys.EmpresasActivity">
+    <!--  Barra superior com título  -->
+    <!--  RecyclerView para exibir a lista de empresas  -->
+    <!--  FloatingActionButton para adicionar novas empresas  -->
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="?attr/colorPrimary" android:elevation="4dp" android:popupTheme="@style/ThemeOverlay.AppCompat.Light" android:theme="@style/ThemeOverlay.AppCompat.ActionBar" app:title="Empresas" app:titleTextColor="@android:color/white"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/recyclerViewEmpresas" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@id/toolbar" android:layout_marginTop="40dp" android:clipToPadding="false" android:paddingTop="4dp" android:paddingBottom="80dp" tools:listitem="@layout/item_empresa"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton android:id="@+id/fabAddEmpresa" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16dp" android:layout_alignParentEnd="true" android:layout_alignParentBottom="true" android:contentDescription="Adicionar Empresa" app:srcCompat="@drawable/ic_add" app:backgroundTint="?attr/colorPrimary"/>
+</RelativeLayout>

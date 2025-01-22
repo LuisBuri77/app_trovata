@@ -9,6 +9,13 @@ O **App Trovata** é um aplicativo Android desenvolvido em **Java** e **Kotlin**
 - 📍 **Autocompletar Endereço com o CEP**: Ao inserir um CEP válido, o aplicativo preenche automaticamente os campos de endereço correspondentes, otimizando o cadastro.
 - 💾 **Persistência de Dados**: Carregamento inicial de dados usando SQL.
 
+## 🛠 Melhorias Planejadas
+
+- 🖼️ **Adicionar Imagem para Cada Produto**: Permitir que cada produto tenha uma imagem associada para facilitar a identificação visual.
+- 📄 **Paginação de Produtos**: Implementar paginação para melhorar a navegação quando houver uma grande quantidade de produtos.
+- 🔍 **Filtro de Produtos**: Criar um sistema de busca e filtros para facilitar a localização de produtos por categoria, nome ou outros atributos.
+- 🎨 **Melhoria no Design da Interface (UI/UX)**: Atualizar o design usando melhores práticas no código XML para proporcionar uma experiência mais moderna e intuitiva.
+
 ## 📂 Dados de Inicialização
 
 O aplicativo utiliza o arquivo `initial_data.sql` para popular o banco de dados com informações iniciais. Abaixo está o conteúdo do arquivo, que mostra os tipos de dados gerenciados:
